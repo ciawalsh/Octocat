@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words.
+When you have your project at a point that you want to move it to Github, you have to push it 'upstream'. The command for this is simple 'git push [remote-name] [branch-name]'.
